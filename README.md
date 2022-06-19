@@ -9,7 +9,7 @@ I am a Full Stack Developer and I have keen intrest in learning new technologies
 </a>
 
 <a href="https://medium.com/@noormohammadsiddiqui94">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <a href="mailto:noorprofessionalmail@gmail.com?subject=Hello%20Noor%20From%20Github">
