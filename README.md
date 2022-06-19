@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Noor Mohammad Siddiqui
 
-I am a Full Stack Developer and I have keen intrest in learning new technologies. 
+I am a Full Stack Developer and I have keen interest in learning new technologies. 
 
 ### 🤙 Connect with me on:
 
