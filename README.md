@@ -4,9 +4,9 @@ I am a **Full Stack Developer** passionate about building scalable web applicati
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** JavaScript, TypeScript, Python, Java, HTML/CSS
-- **Frontend:** React, Vue, Angular, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express, Django, Spring Boot
+- **Languages:** JavaScript, TypeScript, Python, PHP, SQL, HTML/CSS
+- **Frontend:** React, Vue, Next.js, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express, Django
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis
 - **Tools & Platforms:** Git, Docker, AWS, CI/CD, RESTful APIs
 
